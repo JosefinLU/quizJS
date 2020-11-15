@@ -28,7 +28,7 @@ let questions = [
     answear: 1,
   },
   {
-    question: "Which ones is Cuba's most famouse cigars?",
+    question: "Which ones are Cuba's most famouse cigars?",
     choice1: "H Upmann",
     choice2: "San Cristobal",
     choice3: "Cohiba",
@@ -37,7 +37,7 @@ let questions = [
   },
   {
     question:
-      "What percent of America adults believe that chocolate milk comes from brown cows?",
+      "What percent of American adults believe that chocolate milk comes from brown cows?",
     choice1: "20%",
     choice2: "18%",
     choice3: "7%",
@@ -45,7 +45,7 @@ let questions = [
     answear: 3,
   },
   {
-    question: "When did Stockholm host the olympic games for the first time?",
+    question: "When did Stockholm host the Olympic Games for the first time?",
     choice1: "1900",
     choice2: "1908",
     choice3: "1912",
