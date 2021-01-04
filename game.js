@@ -12,11 +12,11 @@ let availableQuestions = [];
 
 let questions = [
   {
-    question: "Which year was Dahl founded?",
-    choice1: "1933",
-    choice2: "1901",
-    choice3: "1925",
-    choice4: "1917",
+    question: "What is the capital of Uruguay?",
+    choice1: "Buenos Aires",
+    choice2: "Montevideo",
+    choice3: "Caracas",
+    choice4: "Lima",
     answear: 4,
   },
   {
@@ -52,10 +52,26 @@ let questions = [
     choice4: "1920",
     answear: 3,
   },
+  {
+    question: "Who won the FIFA Women's World Cup in 2019?",
+    choice1: "Sverige",
+    choice2: "USA",
+    choice3: "Spain",
+    choice4: "China",
+    answear: 2,
+  },
+  {
+    question: "  Which vitamin is the only one that you will not find in an egg?",
+    choice1: "Vitamin C",
+    choice2: "Vitamin B",
+    choice3: "Vitamin D",
+    choice4: "Vitamin E",
+    answear: 1,
+  },
 ];
 
 const SCORE_POINTS = 100;
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 7;
 
 startGame = () => {
   questionCounter = 0;
