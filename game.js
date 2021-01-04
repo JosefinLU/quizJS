@@ -17,7 +17,7 @@ let questions = [
     choice2: "Montevideo",
     choice3: "Caracas",
     choice4: "Lima",
-    answear: 4,
+    answear: 2,
   },
   {
     question: "Who is the original singer of Son Of A Preacher Man",
